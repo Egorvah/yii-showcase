@@ -19,3 +19,9 @@
 [submodule "protected/extensions/giix"]
 	path = protected/extensions/giix
 	url = git://github.com/alari/giix.git
+[submodule "yii-catalogue"]
+	path = yii-catalogue
+	url = git@github.com:Egorvah/yii-catalogue.git
+[submodule "protected/modules/catalogue"]
+	path = protected/modules/catalogue
+	url = git@github.com:Egorvah/yii-catalogue.git
